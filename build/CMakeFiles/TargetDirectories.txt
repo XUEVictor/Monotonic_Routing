@@ -1,0 +1,3 @@
+/home/ivam/Thesis/GitControl/Dijkstra-HW/build/CMakeFiles/rebuild_cache.dir
+/home/ivam/Thesis/GitControl/Dijkstra-HW/build/CMakeFiles/PA1.dir
+/home/ivam/Thesis/GitControl/Dijkstra-HW/build/CMakeFiles/edit_cache.dir

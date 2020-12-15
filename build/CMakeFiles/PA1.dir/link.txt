@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/PA1.dir/src/main.cpp.o CMakeFiles/PA1.dir/src/parser.cpp.o  -o PA1 

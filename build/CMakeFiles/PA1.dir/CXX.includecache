@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/parser.h
+iostream
+-
+iomanip
+-
+fstream
+-
+vector
+-
+cstdlib
+-
+cstring
+-
+cmath
+-
+string
+-
+list
+-
+climits
+-
+algorithm
+-
+
+/home/ivam/Thesis/GitControl/Dijkstra-HW/src/main.cpp
+parser.h
+/home/ivam/Thesis/GitControl/Dijkstra-HW/src/parser.h
+chrono
+-
+
+/home/ivam/Thesis/GitControl/Dijkstra-HW/src/parser.cpp
+parser.h
+/home/ivam/Thesis/GitControl/Dijkstra-HW/src/parser.h
+chrono
+-
+
